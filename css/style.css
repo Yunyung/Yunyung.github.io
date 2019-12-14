@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #40514e;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+	color: #66bfbf;
+	padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  color: #11999e;
+}
+
+p {
+	line-height: 2;
+}
+hr {
+	width: 5%;
+	border: dotted #eaf6ea 6px;
+	border-bottom: none;
+	margin: 100px auto;
+	
+  width: 5%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+	margin: 100px auto;
+}
+
+.bottom-container {
+	background-color: #66BFBF;
+	padding: 50px 0 20px 0;
+}
+
+.footer-link{
+	text-decoration: none;
+	margin: 10px 20px;
+	color: #11999e;
+	font-family: "Montserrat", sans-serif;
+}
+
+.footer-link:hover{
+	color: #EAF6F6;
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+}
+
+.img-profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.self-introduction {
+  width: 50%;
+	margin: auto;
+}
+
+/* skill Section */
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.img-code-skill {
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-other-skill {
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+/* contact me */
+.contact-message {
+  width: 40%;
+	margin: 40px auto 30px auto;
+}
+
+/* footer */
+
+.footer-copyright{
+	padding: 20px 0;
+	color: #EAF6F6;
+	font-size: 0.75rem;
+}
+
+/* Link */
+.link-to-other-page {
+  text-decoration: none;
+}
+
+/* generate by https://www.bestcssbuttongenerator.com/#/3 */
+.myButton {
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+	color:#ffffff;
+	font-size: 20px;	
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+        
